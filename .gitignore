@@ -1,0 +1,16 @@
+#Comentando dentro do arquivo GItIGnore
+
+#Ignorar qualquer arquivo ou diretório com o seguinte nome,
+# em qualquer diretório do projeto:
+node_modules
+#Ignorar somente o diretório com o seguinte nome, a partir
+# da raiz do projeto:
+ignorar/
+
+#Ignorar somente arquivo com o seguimnte nome, a partir
+# da raiz do projeto:
+/ignicao/ignorado.txt
+
+#ignorar qualquer arquivo zip
+*.zip
+*.html

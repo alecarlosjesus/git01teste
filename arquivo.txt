@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 TESTE de GIT
 
 TESTE DE MODIFICAÇÃO COM CHECKOUT
 TESTE
 TESTE
+=======
+TESTE DE BRANCH
+>>>>>>> branch-02 

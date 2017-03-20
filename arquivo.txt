@@ -7,4 +7,18 @@ TESTE
 TESTE
 =======
 TESTE DE BRANCH
+<<<<<<< HEAD
 >>>>>>> branch-02 
+=======
+
+
+
+
+
+
+
+
+
+
+INSERIDO NO BRANCH-02 / TESTANDO O MERGE SEM CONFLITOS AGORA
+>>>>>>> branch-02
